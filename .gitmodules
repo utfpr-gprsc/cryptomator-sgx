@@ -1,0 +1,9 @@
+[submodule "cryptomator"]
+	path = cryptomator
+	url = https://github.com/nanocfw/cryptomator
+[submodule "cryptofs"]
+	path = cryptofs
+	url = https://github.com/nanocfw/cryptofs
+[submodule "cryptolib"]
+	path = cryptolib
+	url = https://github.com/nanocfw/cryptolib
