@@ -1,9 +1,9 @@
 [submodule "cryptomator"]
 	path = cryptomator
-	url = https://github.com/nanocfw/cryptomator
+	url = https://github.com/utfpr-gprsc/cryptomator
 [submodule "cryptofs"]
 	path = cryptofs
-	url = https://github.com/nanocfw/cryptofs
+	url = https://github.com/utfpr-gprsc/cryptofs
 [submodule "cryptolib"]
 	path = cryptolib
-	url = https://github.com/nanocfw/cryptolib
+	url = https://github.com/utfpr-gprsc/cryptolib
