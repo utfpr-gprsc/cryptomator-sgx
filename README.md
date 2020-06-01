@@ -1,4 +1,4 @@
-# CryptomatorSGX Prototype
+# Cryptomator-SGX Prototype
 
 ## Secure Cloud Storage with Client-Side Encryption Using a Trusted Execution Environment
 
